@@ -1,5 +1,5 @@
-# Differentiable-RMPflow
-RMPflow implementation in PyTorch. This package has been tested on python3.5.
+# Human Guided RMPflow
+Implementation of Human guided RMPflow in PyTorch. This package has been tested on python3.5.
 
 ## Requirements
 1. urdf_parser_py: `pip3 install urdf-parser-py`
